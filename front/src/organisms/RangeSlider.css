@@ -1,0 +1,54 @@
+:root {
+	--custom-yellow: #ffd700;
+}
+
+[class^='BTW8mG_spectrum-Slider_'] {
+	width: calc(100% - 2rem) !important;
+	padding: 0 1rem;
+}
+
+[class^='BTW8mG_spectrum-Slider-labelContainer'] {
+	margin-bottom: 1rem;
+	margin-left: 5rem;
+	margin-right: 5rem;
+}
+
+[class^='BTW8mG_spectrum-Slider-value'] {
+	width: auto !important;
+	min-width: 0 !important;
+}
+
+[class^='BTW8mG_spectrum-Slider-track'] {
+	background-color: #f6ff00;
+	height: 3px;
+	border-radius: 9999px;
+}
+
+[class^='BTW8mG_spectrum-Slider-track']:last-of-type {
+	right: 0;
+}
+
+[class^='BTW8mG_spectrum-Slider-track']:nth-of-type(3) {
+	background-color: var(--custom-yellow);
+}
+
+/* Update slider handle styles to use yellow color */
+[class^='BTW8mG_spectrum-Slider-handle'] {
+	display: block;
+	width: 20px;
+	height: 20px;
+	margin-top: 1px;
+	background-color: var(--custom-yellow);
+	border: 1px solid #c4c8d8;
+	box-shadow: 0 1px 5px 0 #ffd700;
+	border-radius: 9999px;
+}
+
+/* Update handle styles for hovered, dragged, and tophandle states */
+[class^='BTW8mG_spectrum-Slider-handle.BTW8mG_is-hovered'],
+[class^='BTW8mG_spectrum-Slider-handle.BTW8mG_is-dragged'],
+[class^='BTW8mG_spectrum-Slider-handle.BTW8mG_is-tophandle'] {
+	border-width: 0;
+	background-color: var(--custom-yellow);
+	border-color: #ffd700;
+}

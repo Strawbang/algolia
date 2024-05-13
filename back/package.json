@@ -1,0 +1,14 @@
+{
+	"devDependencies": {
+		"@types/node": "^20.12.11",
+		"typescript": "^5.4.5"
+	},
+	"dependencies": {
+		"algoliasearch": "^4.23.3",
+		"axios": "^1.6.8",
+		"dotenv": "^16.4.5"
+	},
+	"scripts": {
+		"start": "npx ts-node main.ts"
+	}
+}

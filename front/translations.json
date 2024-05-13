@@ -1,0 +1,320 @@
+{
+	"search-a-pokemon": {
+		"english": "Search a Pokemon...",
+		"japanese": "ポケモンを検索...",
+		"chinese": "搜索宝可梦...",
+		"french": "Rechercher un Pokémon..."
+	},
+	"search-a-type": {
+		"english": "Search a Type...",
+		"japanese": "タイプを検索...",
+		"chinese": "搜索类型...",
+		"french": "Rechercher un type de Pokémon..."
+	},
+	"search-a-game_versions": {
+		"english": "Search a Game Versions...",
+		"japanese": "ゲームバージョンを検索...",
+		"chinese": "搜索游戏版本...",
+		"french": "Rechercher une version du jeu Pokémon..."
+	},
+	"showMore": {
+		"english": "Show more",
+		"japanese": "もっと見る",
+		"chinese": "查看更多",
+		"french": "Voir plus"
+	},
+	"showLess": {
+		"english": "Show less",
+		"japanese": "もっと少なく表示",
+		"chinese": "显示更少",
+		"french": "Voir moins"
+	},
+	"backToTop": {
+		"english": "Back to Top",
+		"japanese": "トップに戻る",
+		"chinese": "返回顶部",
+		"french": "Retour en haut"
+	},
+	"type": {
+		"english": "Type",
+		"japanese": "タイプ",
+		"chinese": "类型",
+		"french": "Type"
+	},
+	"stats": {
+		"english": "Stats",
+		"japanese": "ステータス",
+		"chinese": "属性",
+		"french": "Statistiques"
+	},
+	"game_versions": {
+		"english": "Game versions",
+		"japanese": "ゲームバージョン",
+		"chinese": "游戏版本",
+		"french": "Versions du jeu"
+	},
+	"HP": {
+		"english": "HP",
+		"japanese": "HP",
+		"chinese": "生命值",
+		"french": "PV"
+	},
+	"Attack": {
+		"english": "Attack",
+		"japanese": "攻撃",
+		"chinese": "攻击",
+		"french": "Attaque"
+	},
+	"Defense": {
+		"english": "Defense",
+		"japanese": "防御",
+		"chinese": "防御",
+		"french": "Défense"
+	},
+	"Sp.Attack": {
+		"english": "Sp. Attack",
+		"japanese": "特攻",
+		"chinese": "特殊攻击",
+		"french": "Att. Spé."
+	},
+	"Sp.Defense": {
+		"english": "Sp. Defense",
+		"japanese": "特防",
+		"chinese": "特殊防御",
+		"french": "Déf. Spé."
+	},
+	"Speed": {
+		"english": "Speed",
+		"japanese": "素早さ",
+		"chinese": "速度",
+		"french": "Vitesse"
+	},
+	"Water": {
+		"english": "Water",
+		"japanese": "水",
+		"chinese": "水",
+		"french": "Eau"
+	},
+	"Normal": {
+		"english": "Normal",
+		"japanese": "ノーマル",
+		"chinese": "一般",
+		"french": "Normal"
+	},
+	"Flying": {
+		"english": "Flying",
+		"japanese": "ひこう",
+		"chinese": "飞行",
+		"french": "Vol"
+	},
+	"Grass": {
+		"english": "Grass",
+		"japanese": "くさ",
+		"chinese": "草",
+		"french": "Plante"
+	},
+	"Psychic": {
+		"english": "Psychic",
+		"japanese": "エスパー",
+		"chinese": "超能力",
+		"french": "Psy"
+	},
+	"Bug": {
+		"english": "Bug",
+		"japanese": "むし",
+		"chinese": "虫",
+		"french": "Insecte"
+	},
+	"Poison": {
+		"english": "Poison",
+		"japanese": "どく",
+		"chinese": "毒",
+		"french": "Poison"
+	},
+	"Fire": {
+		"english": "Fire",
+		"japanese": "ほのお",
+		"chinese": "火",
+		"french": "Feu"
+	},
+	"Ground": {
+		"english": "Ground",
+		"japanese": "じめん",
+		"chinese": "地面",
+		"french": "Sol"
+	},
+	"Rock": {
+		"english": "Rock",
+		"japanese": "いわ",
+		"chinese": "岩石",
+		"french": "Roche"
+	},
+	"Fighting": {
+		"english": "Fighting",
+		"japanese": "かくとう",
+		"chinese": "格斗",
+		"french": "Combat"
+	},
+	"Steel": {
+		"english": "Steel",
+		"japanese": "はがね",
+		"chinese": "钢",
+		"french": "Acier"
+	},
+	"Electric": {
+		"english": "Electric",
+		"japanese": "でんき",
+		"chinese": "电",
+		"french": "Électrik"
+	},
+	"Fairy": {
+		"english": "Fairy",
+		"japanese": "フェアリー",
+		"chinese": "妖精",
+		"french": "Fée"
+	},
+	"Dark": {
+		"english": "Dark",
+		"japanese": "あく",
+		"chinese": "恶",
+		"french": "Ténèbres"
+	},
+	"Dragon": {
+		"english": "Dragon",
+		"japanese": "ドラゴン",
+		"chinese": "龙",
+		"french": "Dragon"
+	},
+	"Ghost": {
+		"english": "Ghost",
+		"japanese": "ゴースト",
+		"chinese": "幽灵",
+		"french": "Spectre"
+	},
+	"Ice": {
+		"english": "Ice",
+		"japanese": "こおり",
+		"chinese": "冰",
+		"french": "Glace"
+	},
+	"black": {
+		"english": "Black",
+		"japanese": "ブラック",
+		"chinese": "黑",
+		"french": "Noir"
+	},
+	"black-2": {
+		"english": "Black 2",
+		"japanese": "ブラック2",
+		"chinese": "黑2",
+		"french": "Noir 2"
+	},
+	"white": {
+		"english": "White",
+		"japanese": "ホワイト",
+		"chinese": "白",
+		"french": "Blanc"
+	},
+	"white-2": {
+		"english": "White 2",
+		"japanese": "ホワイト2",
+		"chinese": "白2",
+		"french": "Blanc 2"
+	},
+	"diamond": {
+		"english": "Diamond",
+		"japanese": "ダイヤモンド",
+		"chinese": "钻石",
+		"french": "Diamant"
+	},
+	"heartgold": {
+		"english": "HeartGold",
+		"japanese": "ハートゴールド",
+		"chinese": "心金",
+		"french": "Or HeartGold"
+	},
+	"pearl": {
+		"english": "Pearl",
+		"japanese": "パール",
+		"chinese": "珍珠",
+		"french": "Perle"
+	},
+	"platinum": {
+		"english": "Platinum",
+		"japanese": "プラチナ",
+		"chinese": "白金",
+		"french": "Platine"
+	},
+	"soulsilver": {
+		"english": "SoulSilver",
+		"japanese": "ソウルシルバー",
+		"chinese": "灵银",
+		"french": "Argent SoulSilver"
+	},
+	"ruby": {
+		"english": "Ruby",
+		"japanese": "ルビー",
+		"chinese": "红宝石",
+		"french": "Rubis"
+	},
+	"sapphire": {
+		"english": "Sapphire",
+		"japanese": "サファイア",
+		"chinese": "蓝宝石",
+		"french": "Saphir"
+	},
+	"emerald": {
+		"english": "Emerald",
+		"japanese": "エメラルド",
+		"chinese": "绿宝石",
+		"french": "Émeraude"
+	},
+	"firered": {
+		"english": "FireRed",
+		"japanese": "ファイアレッド",
+		"chinese": "火红",
+		"french": "Rouge Feu"
+	},
+	"leafgreen": {
+		"english": "LeafGreen",
+		"japanese": "リーフグリーン",
+		"chinese": "叶绿",
+		"french": "Vert Feuille"
+	},
+	"crystal": {
+		"english": "Crystal",
+		"japanese": "クリスタル",
+		"chinese": "水晶",
+		"french": "Cristal"
+	},
+	"gold": {
+		"english": "Gold",
+		"japanese": "ゴールド",
+		"chinese": "金",
+		"french": "Or"
+	},
+	"silver": {
+		"english": "Silver",
+		"japanese": "シルバー",
+		"chinese": "银",
+		"french": "Argent"
+	},
+	"blue": {
+		"english": "Blue",
+		"japanese": "ブルー",
+		"chinese": "蓝",
+		"french": "Bleu"
+	},
+	"red": {
+		"english": "Red",
+		"japanese": "レッド",
+		"chinese": "红",
+		"french": "Rouge"
+	},
+	"yellow": {
+		"english": "Yellow",
+		"japanese": "イエロー",
+		"chinese": "黄",
+		"french": "Jaune"
+	}
+}
