@@ -6,7 +6,7 @@ This project is a responsive web application that enables users to search for Po
 
 - **Pokedex**: The `pokedex/` directory contains the Algolia indexing of relevant PokéAPI resources.
 
-- **Frontend**: The web app is located in the `front/` directory (cloned from the original repository). It's deployed with [Vercel](https://vercel.com/) and can be accessed at [this link](https://test.vercel.app/).
+- **Frontend**: The web app is located in the `front/` directory (cloned from the original repository). It's deployed with [Vercel](https://vercel.com/) and can be accessed at [this link](https://algolia-pied.vercel.app/).
 
 - **Backend**: The `enrichPokemon` feature is located in the `back/` directory.
 
